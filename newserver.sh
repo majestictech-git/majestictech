@@ -13,6 +13,7 @@ sudo apt install -y apache2 mysql-server php libapache2-mod-php php-mysql
 echo "Настройка MySQL..."
 sudo mysql_secure_installation <<EOF
 y
+0
 Tenkjepy@38
 Tenkjepy@38
 y
